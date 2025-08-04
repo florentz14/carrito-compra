@@ -55,7 +55,7 @@ carrito-compra/
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/florentz14/carrito-compra.git
    cd carrito-compra
    ```
 
